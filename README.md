@@ -15,7 +15,9 @@ The dataset contained three files in .tsv format that included train, test and v
 
 Python 3
 Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
+
 Python 3: https://www.python.org/downloads/
+
 Anaconda: https://www.anaconda.com/download/
 
 **Methodology used**
