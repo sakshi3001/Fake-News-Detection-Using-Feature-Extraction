@@ -11,6 +11,12 @@ The dataset that we used for this project is called the LIAR dataset. It was cre
 The dataset is described as a benchmark dataset for fake news detection by the author. It has a total of 14 attributes and more than 10,000 instances. 
 
 The dataset contained three files in .tsv format that included train, test and validation files. The train set and test set consists of 14 columns. Column 1 is the ID of the statement in the form of ([ID].json), Column 2 is the label. Column 3 is the statement under scrutiny. Column 4 is the subject(s). Column 5 is the name of the speaker. Column 6 is the speaker’s job title. Column 7 is the state information. Column 8 gives the speaker’s party affiliation. Column 9 gives the counts when the speaker has been previously truthful. Column 10 gives the number of times the speaker has given out false information. Column 11 gives the number of times when the speaker has spoken half-truths. Column 12 gives the count of mostly true instances of the speaker. Column 13 gives the counts of when the speaker has been caught giving out fake information(pants-on-fire counts). And finally, the column 14 gives the context, which includes the venue or location of the speech/statement).
+**Prerequisites**
+
+Python 3
+Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
+Python 3: https://www.python.org/downloads/
+Anaconda: https://www.anaconda.com/download/
 
 **Methodology used**
 
